@@ -26,9 +26,9 @@ html, body {
   }
   
   .joinInput {
-    border-radius: 0;
     padding: 15px 20px;
     width: 100%;
+    border-radius: 5px;
   }
   
   .heading {
@@ -43,11 +43,20 @@ html, body {
       text-transform: uppercase;
       text-decoration: none;
       background: #2979FF;
-      padding: 20px;
-      border-radius: 5px;
+      padding: 25px;
+      border-radius: 10px;
       display: inline-block;
       border: none;
+      font-weight: bold;
       width: 100%;
+  }
+  
+  .button:hover{
+    cursor: pointer;
+    text-shadow: 0px 0px 6px #fff;
+    -webkit-box-shadow: 0px 5px 40px -10px #2979FF;
+    -moz-box-shadow: 0px 5px 40px -10px #2979FF;
+    transition: all 0.4s ease 0s;
   }
   
   .mt-20 {
