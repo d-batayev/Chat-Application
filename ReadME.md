@@ -12,8 +12,7 @@
 ![Chat View](demonstration/chat.png)
 
 ### Mobile Responsiveness
-![iPhone X View](demonstration/iPhoneX-view.png)
-
+<div align=”center”> ![iPhone X View](demonstration/iPhoneX-view.png)</div>
 
 Developed a Realtime Chat Application with **React** on the front-end, with **NodeJS**, **Express**, **Socket.io** Web Socket Library and other libraries on the back-end.
 
