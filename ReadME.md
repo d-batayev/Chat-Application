@@ -10,11 +10,11 @@ The back-end was deployed on Heroku and the front-end was deployed on Netlify.
 # Setup
 
 - Clone this repository
-- Run `bash npm install` to install all the dependencies
+- Run `npm install` to install all the dependencies
 - Set the client endpoint to localhost:5000 in client/src/components/Chat/Chat.js
-- Run `bash npm i && npm start`for both client and server side to start the development server.
+- Run `npm i && npm start`for both client and server side to start the development server.
 
 Then, you will be able to access the application at localhost:3000.
 
 
-© 2019 Daulet Batayev
+© 2020 Daulet Batayev
