@@ -12,7 +12,7 @@
 ![Chat View](demonstration/chat.png)
 
 ### Mobile Responsiveness
-<div style="text-align:center"><img src="demonstration/iPhoneX-view.png" /></div>
+<div style="align:center"><img src="demonstration/iPhoneX-view.png" /></div>
 
 # Introduction
 
