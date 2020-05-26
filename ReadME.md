@@ -1,6 +1,6 @@
-# Realtime Chat Application
+# Real-time Chat Application
 
-## [View the Realtime Chat-Application](https://daulet-chat-application.netlify.app/)
+## [View the Real-time Chat-Application](https://daulet-chat-application.netlify.app/)
 
 ![Chat-Application Demo](demonstration/demo.gif)
 
@@ -16,7 +16,7 @@
 
 # Introduction
 
-Developed a Realtime Chat Application with **React** on the front-end, with **NodeJS**, **Express**, **Socket.io** Web Socket Library and other libraries on the back-end.
+Developed a Real-time Chat Application with **React** on the front-end, with **NodeJS**, **Express**, **Socket.io** Web Socket Library and other libraries on the back-end.
 
 The back-end was deployed on **Heroku** and the front-end was deployed on **Netlify**.
 
