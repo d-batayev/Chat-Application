@@ -33,11 +33,13 @@ io.on('connect', (socket) => {
   socket.on('sendMessage', (message, callback) => {
     const user = getUser(socket.id);
     const check = message;
-    
+
     if (check.replace(/\s/g, "") !== ''){
-        io.to(user.room).emit('message', { user: user.name, text: message });
+      io.to(user.room).emit('message', { user: user.name, text: message });
     }
+
     
+
     callback();
   });
 

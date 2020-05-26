@@ -8,7 +8,7 @@ const TextContainer = ({ users }) => (
   <div className="textContainer">
     <div>
       <h1>Realtime Chat Application <span role="img" aria-label="emoji">💬</span></h1>
-      <h2>Created by Daulet Batayev</h2>
+      <h2>Created by <a href = "http://dauletbatayev.com/" >Daulet Batayev</a></h2>
     </div>
     {
       users

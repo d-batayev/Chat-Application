@@ -25,6 +25,11 @@
   .textContainer h1 {
     margin-bottom: 0px;
   }
+
+  .textContainer a {
+    color: white;
+    text-decoration: underline;
+  }
   
   @media (min-width: 320px) and (max-width: 1200px) {
     .textContainer {

@@ -17,7 +17,6 @@
   
   .sendButton {
     color: #fff !important;
-    text-transform: uppercase;
     text-decoration: none;
     background: #2979FF;
     padding: 20px;
@@ -25,10 +24,13 @@
     border: none;
     font-weight: bold;
     width: 20%;
+    font-size: 24px;
   }
   
   .sendButton:hover{
     cursor: pointer;
     text-shadow: 0px 0px 6px #fff;
+    -webkit-box-shadow: 0px 5px 20px -10px #2979FF;
+    -moz-box-shadow: 0px 5px 20px -10px #2979FF;
     transition: all 0.4s ease 0s;
   }
