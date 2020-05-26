@@ -4,21 +4,15 @@ Developed a Realtime Chat Application with React on the front-end, with NodeJS, 
 
 The back-end was deployed on Heroku and the front-end was deployed on Netlify.
 
-# [View the Chat-Application] (https://daulet-chat-application.netlify.app/)
+# [View the Chat-Application](https://daulet-chat-application.netlify.app/)
 
 
 # Setup
 
 - Clone this repository
-- Run ```bash npm install``` to install all the dependencies
+- Run `bash npm install` to install all the dependencies
 - Set the client endpoint to localhost:5000 in client/src/components/Chat/Chat.js
-- Run
-  ```bash
-     
-  npm i && npm start
-
-  ``` 
-for both client and server side to start the development server.
+- Run `bash npm i && npm start`for both client and server side to start the development server.
 
 Then, you will be able to access the application at localhost:3000.
 
