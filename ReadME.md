@@ -1,5 +1,7 @@
 # Realtime Chat Application
 
+## [View the Realtime Chat-Application](https://daulet-chat-application.netlify.app/)
+
 ![Chat-Application Demo](demonstration/demo.gif)
 
 ## The App Screen Shots
@@ -10,10 +12,7 @@
 ![Chat View](demonstration/chat.png)
 
 ### Mobile Responsiveness
-![iPhone X View](demonstration/iPhoneX view.png)
-
-
-# [View the Realtime Chat-Application](https://daulet-chat-application.netlify.app/)
+![iPhone X View](demonstration/"iPhoneX view".png)
 
 
 Developed a Realtime Chat Application with **React** on the front-end, with **NodeJS**, **Express**, **Socket.io** Web Socket Library and other libraries on the back-end.
