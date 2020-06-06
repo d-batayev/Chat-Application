@@ -4,7 +4,7 @@
 
 ![Chat-Application Demo](demonstration/demo.gif)
 
-## The App Screen Shots
+## App Screen Shots
 ### Join Menu
 ![Join View](demonstration/join.png)
 
@@ -31,4 +31,4 @@ The back-end was deployed on **Heroku** and the front-end was deployed on **Netl
 Then, you will be able to access the application at **localhost:3000**.
 
 
-	© 2020 Daulet Batayev
+© 2020 Daulet Batayev
