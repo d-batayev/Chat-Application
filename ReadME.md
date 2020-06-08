@@ -6,13 +6,13 @@
 
 ## App Screen Shots
 ### Join Menu
-![Join View](demonstration/join.png)
+![Join View](chat-demo/join.png)
 
 ### Chat Body
-![Chat View](demonstration/chat.png)
+![Chat View](chat-demo/chat.png)
 
 ### Mobile Responsiveness
-<div style="align:center"><img src="demonstration/iPhoneX-view.png" /></div>
+<div style="align:center"><img src="chat-demo/iPhoneX-view.png" /></div>
 
 # Introduction
 
