@@ -5,7 +5,7 @@
   
   .input {
     border: none;
-    border-radius: 0;
+    border-radius: 0px;
     padding: 5%;
     width: 80%;
     font-size: 1.2em;
@@ -18,19 +18,22 @@
   .sendButton {
     color: #fff !important;
     text-decoration: none;
+    text-transform: uppercase;
     background: #2979FF;
     padding: 20px;
-    display: inline-block;
     border: none;
+    font-size: 16px;
+    border-radius: 4px;
+    
     font-weight: bold;
     width: 20%;
-    font-size: 24px;
+
   }
   
   .sendButton:hover{
     cursor: pointer;
     text-shadow: 0px 0px 6px #fff;
-    -webkit-box-shadow: 0px 5px 20px -10px #2979FF;
-    -moz-box-shadow: 0px 5px 20px -10px #2979FF;
+    -webkit-box-shadow: 0px 9px 20px -10px #2979FF;
+    -moz-box-shadow: 0px 9Spx 20px -10px #2979FF;
     transition: all 0.4s ease 0s;
   }
