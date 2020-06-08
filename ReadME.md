@@ -2,7 +2,7 @@
 
 ## [View the Real-time Chat-Application](https://daulet-chat-application.netlify.app/)
 
-![Chat-Application Demo](demonstration/demo.gif)
+![Chat-Application Demo](chat-demo/demo.gif)
 
 ## App Screen Shots
 ### Join Menu
