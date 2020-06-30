@@ -12,7 +12,7 @@
 ![Chat View](chat-demo/chat.png)
 
 ### Mobile Responsiveness
-<div style="align:center"><img src="chat-demo/iPhoneX-view.png" /></div>
+<div align="center"><img src="chat-demo/iPhoneX-view.png" /></div>
 
 # Introduction
 
@@ -28,7 +28,7 @@ The back-end was deployed on **Heroku** and the front-end was deployed on **Netl
 - Set the client endpoint to **localhost:5000** in *client/src/components/Chat/Chat.js*
 - Run `npm i && npm start`for both client and server side to start the development server
 
-Then, you will be able to access the application at **localhost:3000**.
+Then, you will be able to view the application at **localhost:3000**.
 
 
 © 2020 Daulet Batayev
